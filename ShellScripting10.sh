@@ -9,5 +9,5 @@ case $opt in
     1) date ;;
     2) cal ;;
     3) uptime ;;
-    *) echo "❌ Invalid option!" ;;
+    *) echo "Invalid option!" ;;
 esac
